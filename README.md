@@ -43,5 +43,5 @@
 
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/](https://github.com/)varshasampath04/SignAI.git
+   git clone [https://github.com/](https://github.com/)varshasampath04-maker/SignAI.git
    cd SignAI
